@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<style>
+body {background-color: #850001;}
+h1   {color: black; text-align:left;font: 16px lato;
+			padding:0% 5% 5% 5%;}
+p    {color: black; text-align:center;font: 36px lato;}
+#intro{
+	background-color: #F5F5F5;
+	width:80%;
+	min-width: 800px;
+	color:#000000;
+	text-justify: inter-word;
+	margin-top:124px;
+	margin-left:10%;
+	font: 18px arial, sans-serif;
+	padding:13px 1% 0.5% 1.5%;
+	display:inline-block
+}
+#teams{
+	background-color: #F5F5F5;
+	width:80%;
+	min-width: 800px;
+	color:#000000;
+	text-justify: inter-word;
+	margin-top:65px;
+	margin-left:10%;
+	font: 18px arial, sans-serif;
+	padding:13px 1% 0.5% 1.5%;
+	display:inline-block
+}
+#header{
+	position:fixed;
+	left:0px;
+	right:0px;
+	top:0px;
+	height:64px;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	background-color: #440000;
+	color:#F5F5F5;
+	text-justify: inter-word;
+	font: 18px arial, sans-serif;
+	padding:20px 0px 20px 20px;
+	display:inline-block
+	height:100px !important;
+}
+#button{
+	padding-top:15px !important;
+	padding-bottom:24px !important;
+	padding-right:24px !important;
+	padding-left:24px !important;
+	color:#F5F5F5 !important;
+	font-family: 'Arial', sans-serif;
+	font-size:24px;
+	float:right;
+}
+</style>
+
+
+
+
+<head>
+	<title>FRC Team 4533
+	</title>
+</head>
+
+<body>
+<div id="header">
+<img src = "http://veryinterestinglinktoteamimage.jpg">
+<a id="button" href="sponsors.html"><u>Sponsors</u></a>
+<a id="button" href="subteams.html"><u>Subteams</u></a>
+<a id="button" href="pictures.html"><u>Pictures</u></a>
+<a id="button" href="robot.html"><u>Robot</u></a>
+<a id="button" href="contact.html"><u>Contact</u></a>
+<a id="button" href="pictures.html"><u><Pictures</u></a>
+</div>
+<div id="intro">
+
+<center><img src="https://i.imgur.com/25HcZy7.jpg"/></center>
+
+	<h2>
+	Who We Are
+</h2>
+
+Team 4533, Wando Advanced Robotics, is a FIRST ® team located in Mount Pleasant, South Carolina. With inspiring students from 
+Wando High School and Academic Magnet, members of Team 4533 participate in the yearly FIRST ® Robotics Competition. Through the
+programming, build, CAD, and imagery team, Wando Robotics members engage in FIRST Robotics Competitions (FRC) and 
+promote the values of FIRST ® robotics.
+
+<hr>
+
+	<h2>
+	What is FIRST ®?
+</h2>
+
+Every year, thousands of robotics teams from around the globe participate in a yearly, unique game where the participants work and engage
+for 6 weeks building and programming a robot for competitions. Using set of guidelines and following the game rules, the students engage
+and help inspire others to spread the message of FIRST ®. FIRST ® offers a wide range of opportunities and mentoring, and students learn to enhance
+their technology skills in building and programming, as well as building leadership skills and working together as a team.
+The games every year focuses on promoting creative and innovative ideas that help them in their future. In 2017, over 6000 teams participated in the FRC
+Robotics Competition. FRC also has many teams outside of North America with teams in France, UK, Germany, China, Japan, Taiwan, Chile, Brazil, Vietnam,
+Isreal, and many more. Every year, teams compete at regional and state level competitions in an attempt to gain a spot at the invitational World 
+Competitions in St. Louis and Houston.
+
+<hr>
+
+<center><p style="font-size: 30px">2018 Competition Dates: See You There!</p></center>
+
+<ul>
+	<li>March 14: Rocket City Reigonal. Huntington, Alabama</li>
+	<li>March 28: South Florida Reigonal. West Palm Beach, Florida</li>
+	
+</ul>
+
+</div>
+</body>
+</html>
